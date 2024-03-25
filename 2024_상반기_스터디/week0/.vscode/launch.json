@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/parkseonggeun/Desktop/Algorithm/2024_상반기_스터디/week0",
+      "program": "/Users/parkseonggeun/Desktop/Algorithm/2024_상반기_스터디/week0/build/Debug/outDebug"
+    }
+  ]
+}
