@@ -60,6 +60,9 @@
     "string": "cpp",
     "vector": "cpp",
     "stack": "cpp",
-    "ios": "cpp"
+    "ios": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "iostream": "cpp"
   }
 }
